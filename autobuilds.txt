@@ -5,7 +5,7 @@ zip="https://raw.githubusercontent.com/MrBlamo420/builds/master//MrBlamo420/buil
 
 name="Kodi Killer"               
 version="1.0"             
-url="https://ia801500.us.archive.org/zipview.php?zip=/23/items/Kodikiller/Kodikiller.zip"                
+url="https://archive.org/download/Kodikiller/Kodikiller.zip"                
 gui=""
 kodi="17.6"
 theme="http://"

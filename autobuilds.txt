@@ -3,7 +3,7 @@ version="0.3"
 zip="https://raw.githubusercontent.com/MrBlamo420/builds/master/plugin.program.blamowizard.zip"
 
 name="Kodikiller"               
-version="1.0"             
+version="0.1"             
 url="https://archive.org/download/Kodikiller/Kodikiller.zip"                
 gui=""
 kodi="17.6"

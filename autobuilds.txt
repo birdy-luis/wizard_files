@@ -1,6 +1,6 @@
 id="plugin.program.blamoWizard"
 version="0.1"
-zip="https://github.com/MrBlamo420/Project/blob/master/zips/plugin.program.blamowizard/plugin.program.blamowizard-0.1.zip?raw=true"
+zip="https://raw.githubusercontent.com/MrBlamo420/Project/master/zips/plugin.program.blamowizard/plugin.program.blamowizard-0.1.zip"
 
 name="Kodi Killer"               
 version="1.0"             

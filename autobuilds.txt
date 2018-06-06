@@ -1,5 +1,5 @@
 id="plugin.program.blamowizard"
-version="0.2"
+version="0.1"
 zip="https://raw.githubusercontent.com/MrBlamo420/builds/master//MrBlamo420/builds/blob/master/plugin.program.blamowizard.zip"
 
 

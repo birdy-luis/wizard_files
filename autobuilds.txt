@@ -1,6 +1,11 @@
+id="plugin.program.blamowizard"
+version="0.2"
+zip="https://raw.githubusercontent.com/MrBlamo420/builds/master//MrBlamo420/builds/blob/master/plugin.program.blamowizard.zip"
+
+
 name="Kodi Killer"               
 version="1.0"             
-url="https://archive.org/download/Kodikiller/Kodikiller.zip"                
+url="https://ia801500.us.archive.org/zipview.php?zip=/23/items/Kodikiller/Kodikiller.zip"                
 gui=""
 kodi="17.6"
 theme="http://"

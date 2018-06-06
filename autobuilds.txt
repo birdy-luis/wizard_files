@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/MrBlamo420/builds/master/plugin.program.b
 
 name="Kodi Killer"
 version="0.1"
-url="https://archive.org/download/Kodikiller/Kodikiller.zip"                
+url="https://archive.org/download/Kodikiller_201806/Kodikiller.zip"                
 gui="http://"
 kodi="17.6"
 theme="http://"

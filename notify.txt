@@ -1,14 +1,14 @@
 12
 |||
  [COLOR red][B]PLEASE READ THE MESSAGE FROM Mr.Blamo[/COLOR][/B]
- [COLOR purple][B]Thanks for Choosing Blamo Builds[/COLOR][/B]
+ [COLOR orange][B]Thanks for Choosing Blamo Builds[/COLOR][/B]
  
- [COLOR purple][B]-ADVANCED SETTINGS[/COLOR][/B]
- [COLOR purple][B]-SET AUTO CLEAN TO OFF OR WEEKLY[/COLOR][/B]
- [COLOR purple][B]-PAIR REAL-DEBRID RESOLVERS[/COLOR][/B]
- [COLOR purple][B]-SETUP TRAKT[/COLOR][/B]
+ [COLOR orange][B]-ADVANCED SETTINGS[/COLOR][/B]
+ [COLOR orange][B]-SET AUTO CLEAN TO OFF OR WEEKLY[/COLOR][/B]
+ [COLOR orange][B]-PAIR REAL-DEBRID RESOLVERS[/COLOR][/B]
+ [COLOR orange][B]-SETUP TRAKT[/COLOR][/B]
  
  [COLOR red][B]Wizard & Builds[/COLOR][/B]
- [COLOR purple][B]BLAMO BUILD VERSION 0.1[/COLOR][/B]
+ [COLOR orange][B]BLAMO BUILD VERSION 0.2[/COLOR][/B]
 
  [COLOR red][B]UPDATES:  2018-06-06[/COLOR][/B]

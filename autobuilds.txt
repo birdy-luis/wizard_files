@@ -1,4 +1,3 @@
-
 name="Kodi Killer"
 version="0.1"
 url="http://repo.maddogg.ca/builds/Kodikiller.zip"                

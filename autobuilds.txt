@@ -1,5 +1,5 @@
 name="Kodi Killer"
-version="0.1"
+version="0.2"
 url="http://repo.maddogg.ca/builds/Kodikiller.zip"                
 gui="http://"
 kodi="17.6"

@@ -1,5 +1,5 @@
 name="Kodi Killer"
-version="0.6"
+version="0.7"
 url="http://mrblamo.xyz/blamobuilds/KodiKiller.zip"                
 gui="http://"
 kodi="17.6"

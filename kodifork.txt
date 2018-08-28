@@ -1,5 +1,5 @@
-name=DBMC"
-section="no"
+name=DBMC 17.6"
+section="yes"
 url="http://mrblamo.xyz/APK/DBMC.apk"
 icon="http://"
 fanart="http://"

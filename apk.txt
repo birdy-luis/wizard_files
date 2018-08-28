@@ -1,6 +1,6 @@
 name="DBMC"
 section="yes"
-url="http://aftermathwizard.net/repo/apks/kodifork.txt"
+url="http://mrblamo.xyz/APK/DBMC.apk"
 icon="http://"
 fanart="http://"
 adult="no"

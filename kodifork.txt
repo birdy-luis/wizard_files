@@ -1,7 +1,0 @@
-name=DBMC 17.6"
-section="yes"
-url="http://mrblamo.xyz/APK/DBMC.apk"
-icon="http://mrblamo.xyz/img/icon.png"
-fanart="http://mrblamo.xyz/img/fanart.jpg"
-adult="yes"
-description="DBMC Kodi Fork"

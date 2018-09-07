@@ -23,7 +23,7 @@ adult="No"
 description="Dune Theme - Built around the addon Arrakis"
 
 name="Troopers Build"
-version="0.2"
+version="0.3"
 url="http://mrblamo.xyz/blamobuilds/Trooper.zip"                
 gui="http://"
 kodi="17.6"
